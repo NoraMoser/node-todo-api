@@ -70,3 +70,5 @@ app.listen(3000, () => {
 // }, (e) => {
 //     console.log('will not work')
 // });
+
+module.exports = {app};
